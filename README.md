@@ -2,7 +2,7 @@
 
 **`Desenvolvedoror FullStack`**
 
-Me chamo Felipe De Siqueira Lima, tenho 27 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Formado em Análise e Desenvolvimento de Sistemas na PUCRS e Eng De Sotware. Sou apaixonado por tecnologia e compartilho meu conhecimento através de pags, onde ensino a criar projetos web.
+Me chamo Felipe De Siqueira Lima, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Formado em Análise e Desenvolvimento de Sistemas na PUCRS e Eng De Sotware. Sou apaixonado por tecnologia e compartilho meu conhecimento através de pags, onde ensino a criar projetos web.
 
 <p align="left">
     <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.youtube.com/@SiqueiraFP)">
