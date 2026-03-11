@@ -5,11 +5,11 @@
 Me chamo Felipe De Siqueira Lima , tenho 27 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, Formado em análise e Desenvolvimento de Sistemas na PUCRS. E Engenharia de Sotware. Sou apaixonado por tecnologia e compartilho meu conhecimento diariamente. Onde ensino a criar projetos web entre outras coisas.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https:>
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
