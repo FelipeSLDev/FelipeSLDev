@@ -1,18 +1,18 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Felipe Siqueira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedoror FullStack`**
 
-Me chamo Felipe De Siqueira Lima , tenho 27 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, Formado em análise e Desenvolvimento de Sistemas na PUCRS. E Engenharia de Sotware. Sou apaixonado por tecnologia e compartilho meu conhecimento diariamente. Onde ensino a criar projetos web entre outras coisas.
+Me chamo Larissa Vitória Kich, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Formado em Análise e Desenvolvimento de Sistemas na PUCRS e Eng De Sotware. Sou apaixonado por tecnologia e compartilho meu conhecimento através de pags, onde ensino a criar projetos web.
 
 <p align="left">
-    <a href="https:>
+    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.youtube.com/@SiqueiraFP)">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="(https://www.youtube.com/@SiqueiraFP)">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
